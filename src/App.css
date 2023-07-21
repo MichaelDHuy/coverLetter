@@ -1,5 +1,5 @@
 /* Reset CSS */
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -9,24 +9,37 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f8f8f8; /* Very light gray background color */
-}
+  background-color: #f8f8f8;
+} */
 
 /* Main App Container */
-.app-container {
+/* .app-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-}
+} */
 
 /* Main Content Container */
-.main-content {
+/* .main-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
   max-width: 1200px;
   padding: 20px;
+} */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f5e9d4; /* Light Peach */
+}

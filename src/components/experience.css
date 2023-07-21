@@ -1,13 +1,39 @@
 .experience {
-  background-color: #f1f1f1;
-  padding: 2rem;
+  background-color: #f9eae1;
+  color: #000;
+  padding: 4rem 2rem;
 }
 
-.experience-content {
-  max-width: 800px;
-  margin: 0 auto;
+.experience h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
 }
 
-.experience-item {
-  margin-bottom: 2rem;
+.experience .item {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.experience .item img {
+  width: 100px;
+  height: 100px;
+  margin-right: 1rem;
+}
+
+.experience .item .details {
+  flex: 1;
+}
+
+.experience .item .title {
+  font-size: 1.3rem;
+}
+
+.experience .item .company {
+  font-size: 1.1rem;
+  color: #777;
+}
+
+.experience .item .duration {
+  font-size: 1rem;
+  color: #555;
 }

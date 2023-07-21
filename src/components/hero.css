@@ -1,11 +1,15 @@
 .hero {
-  background-color: #f5b971;
+  background-color: #e46f56;
   color: #fff;
+  padding: 4rem 2rem;
   text-align: center;
-  padding: 2rem;
 }
 
-.hero-content {
-  max-width: 800px;
-  margin: 0 auto;
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
 }

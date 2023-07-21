@@ -1,7 +1,8 @@
 .header {
-  background-color: #3a3a3a;
+  background-color: #8f929d; /* Gray */
   color: #fff;
   padding: 1rem;
+  width: 100%;
 }
 
 .nav-container {

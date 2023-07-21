@@ -1,0 +1,11 @@
+.hero {
+  background-color: #f5b971;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}

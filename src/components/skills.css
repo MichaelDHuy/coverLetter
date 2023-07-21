@@ -1,0 +1,20 @@
+.skills {
+  background-color: #f2ede9;
+  padding: 2rem;
+}
+
+.skills-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.skills-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.skill-icon {
+  font-size: 3rem;
+  margin: 0 1rem;
+}

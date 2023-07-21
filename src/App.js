@@ -1,23 +1,30 @@
-import React from 'react';
-import './App.css';
-// import Header from './components/header';
-// import About from './components/about';
-import Skills from './components/skills';
-import Projects from './components/projects';
-import Contact from './components/contacts';
-import Footer from './components/footer';
+import React from "react";
+import Header from "./components/header";
+import Hero from "./components/hero";
+import About from "./components/about";
+import Experience from "./components/experience";
+import Skills from "./components/skills";
+import Education from "./components/education";
+import Contact from "./components/contact";
+import Footer from "./components/footer"; // Add this line
 
-function App() {
+import "./App.css";
+
+const App = () => {
   return (
-    <div className="App">
-      {/* <Header />
-      <About /> */}
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
+    <div className="app-container">
+      <Header />
+      <main className="main-content">
+        <Hero />
+        <About />
+        <Experience />
+        <Skills />
+        <Education />
+        <Contact />
+      </main>
+      <Footer /> {/* Add this line */}
     </div>
   );
-}
+};
 
 export default App;

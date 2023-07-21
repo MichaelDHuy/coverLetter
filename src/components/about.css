@@ -1,0 +1,9 @@
+.about {
+  background-color: #fcf8e3;
+  padding: 2rem;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}

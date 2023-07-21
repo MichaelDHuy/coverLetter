@@ -1,0 +1,21 @@
+.header {
+  background-color: #3a3a3a;
+  color: #fff;
+  padding: 1rem;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-container a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.nav-container a:hover {
+  background-color: #555;
+  border-radius: 4px;
+}

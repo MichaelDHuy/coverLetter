@@ -6,13 +6,13 @@ const About = () => {
   return (
     <section className="about">
       <div className="about-content">
-        <h2>About Me</h2>
+        <h2>Hi Company</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu
-          dignissim quam. Nullam fringilla nulla eu posuere aliquam. Maecenas
-          consectetur orci nec odio faucibus sagittis. Proin ullamcorper
-          condimentum consequat. Ut eget ex ac ex tristique fermentum sit amet
-          vel nisi. Nulla in orci sit amet metus viverra iaculis ac eget justo.
+          I wanted to show how much I'd love to work at a company in my own way.
+          This is my "Cover Letter" but it is live on a webpage. So it's not boring ^^
+        </p>
+        <p>  
+          Hope you enjoy!
         </p>
       </div>
     </section>

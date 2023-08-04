@@ -6,8 +6,8 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h1>Your Name</h1>
-        <h3>Web Developer</h3>
+        <h1>Huy Nguyen</h1>
+        <h3>Full Stack Developer</h3>
         <p>
           Passionate web developer with experience in building web
           applications. Skilled in front-end and back-end development, and

@@ -7,6 +7,7 @@ import Skills from "./components/skills";
 import Education from "./components/education";
 import Contact from "./components/contact";
 import Footer from "./components/footer"; // Add this line
+import Reference from "./components/reference";
 
 import "./App.css";
 
@@ -20,7 +21,8 @@ const App = () => {
         <Experience />
         <Skills />
         <Education />
-        <Contact />
+        {/* <Contact /> */}
+        <Reference />
       </main>
       <Footer /> {/* Add this line */}
     </div>

@@ -13,7 +13,7 @@ const Hero = () => {
           applications. Skilled in front-end and back-end development, and
           proficient in various programming languages and frameworks.
         </p>
-        <button>Contact Me</button>
+        {/* <button>Contact Me</button> */}
       </div>
     </section>
   );

@@ -49,10 +49,10 @@ const Skills = () => {
             <i className="fas fa-database fa-3x"></i>
             <span>SQL</span>
           </div>
-          <div className="icon-container">
+          {/* <div className="icon-container">
             <i className="fab fa-mysql fa-3x"></i>
             <span>MySQL</span>
-          </div>
+          </div> */}
           <div className="icon-container">
             <i className="fab fa-node-js fa-3x"></i>
             <span>Node.js</span>
@@ -61,10 +61,10 @@ const Skills = () => {
             <i className="fab fa-node-js fa-3x"></i>
             <span>TypeScript</span>
           </div>
-          <div className="icon-container">
+          {/* <div className="icon-container">
             <i className="fab fa-ruby fa-3x"></i>
             <span>Ruby</span>
-          </div>
+          </div> */}
           <div className="icon-container">
             <i className="fas fa-gem fa-3x"></i>
             <span>Rails</span>
@@ -77,10 +77,10 @@ const Skills = () => {
             <i className="fab fa-node-js fa-3x"></i>
             <span>Express</span>
           </div>
-          <div className="icon-container">
+          {/* <div className="icon-container">
             <i className="fas fa-database fa-3x"></i>
             <span>MongoDB</span>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
